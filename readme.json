@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1725600000,
+      "filename": "cincaiAndroid-v22.2-guacamole-20250906.zip",
+      "id": "abcd1234hash",
+      "romtype": "UNOFFICIAL",
+      "size": 1200000000,
+      "url": "https://sourceforge.net/projects/cincaiandroid/files/22.2/guacamole/cincaiAndroid-v22.2-guacamole-20250906.zip/download",
+      "version": "22.2"
+    }
+  ]
+}
